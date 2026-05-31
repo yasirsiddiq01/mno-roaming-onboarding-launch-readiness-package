@@ -1,0 +1,4 @@
+issue_id,date_opened,partner,test_case_id,severity,workflow_area,description,owner,status,target_resolution_date,resolution_notes
+ISS-001,2026-05-31,Simulated MNO Partner,TC-004,High,Authentication,AUTH_RESPONSE timeout observed during roaming authentication,Roaming Integration Engineer,Open,2026-06-03,Pending partner-side Diameter routing check
+ISS-002,2026-05-31,Simulated MNO Partner,TC-006,Medium,APN Session Setup,APN mismatch detected during session setup,Core Network Team,Open,2026-06-04,Validate APN mapping with partner
+ISS-003,2026-05-31,Simulated MNO Partner,TC-010,Medium,Billing Validation,Rating mismatch found in sample CDR validation,Billing Team,Open,2026-06-05,Compare tariff rule against expected charging configuration

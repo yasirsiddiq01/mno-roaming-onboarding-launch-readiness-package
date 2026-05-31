@@ -1,0 +1,5 @@
+risk_id,risk_area,risk_description,impact,likelihood,mitigation,owner,status
+RISK-001,Partner Configuration,Roaming partner configuration is incomplete before testing,High,Medium,Confirm partner prerequisites before test window,Roaming Integration Engineer,Open
+RISK-002,Signaling Connectivity,Diameter route or firewall path may block authentication,High,Medium,Validate routing and firewall requirements before testing,Core Network Team,Open
+RISK-003,Billing Validation,CDR fields or tariff mapping may not match expected billing rules,High,Medium,Run CDR validation and reconciliation before launch,Billing Team,Open
+RISK-004,Launch Readiness,Commercial launch may proceed with unresolved blocking issue,Critical,Low,Require acceptance checklist and no-go review before launch,Product/Commercial Team,Open
