@@ -1,8 +1,27 @@
+---
+title: MNO Roaming Launch Readiness Package
+emoji: 📡
+colorFrom: blue
+colorTo: indigo
+sdk: docker
+app_port: 8501
+pinned: false
+tags:
+  - streamlit
+  - telecom
+  - roaming
+  - launch-readiness
+---
+
+
+
 # MNO Roaming Onboarding and Launch Readiness Package
 
 This is a self-directed telecom integration documentation project for a simulated Mobile Network Operator roaming partner onboarding scenario.
 
 The package is designed to demonstrate understanding of roaming integration planning, technical testing, issue tracking, billing validation checkpoints, acceptance criteria, and commercial launch readiness.
+
+
 
 ## Purpose
 
