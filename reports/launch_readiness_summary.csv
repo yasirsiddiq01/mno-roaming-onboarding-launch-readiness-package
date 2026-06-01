@@ -1,0 +1,2 @@
+decision,reason,total_issues,open_issues,critical_open_issues,high_open_issues,total_risks,open_risks,critical_open_risks,high_open_risks
+NO-GO,At least one critical open issue or critical open risk remains. Commercial launch should not proceed.,3,3,0,1,4,4,1,3
